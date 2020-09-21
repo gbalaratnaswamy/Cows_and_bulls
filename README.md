@@ -4,3 +4,5 @@ This project idea is to make command line based cows and bulls game which is log
 game_lib.py contains all  libraries that are needed to run game  
 app.py contains one side game(we will play game by guessing computer says cows and bulls  
 game.py contains game in which you play game with computer who guesses answer first will win  
+
+same game with gui is on my [Cows_and_bulls_gui_game repo](https://github.com/gbalaratnaswamy/Cows_and_bulls_gui_game)
